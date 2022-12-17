@@ -11,4 +11,11 @@ description: "Everything you need (and nothing more) to start a bookdown book."
 
 # Preface {-}
 
-This is the very first part of the book.
+This is a minimal `bookdown` ebook.
+
+<center>
+
+<iframe width="607" height="341" src="https://www.youtube.com/embed/gh-6HyTRNNY?list=PLEA18FAF1AD9047B0" title="2. The nature of persons: dualism vs. physicalism" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+

@@ -1,2 +1,2 @@
-introduction
-diving-in
+why-do-this
+how-to-do-this

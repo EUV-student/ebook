@@ -1,4 +1,3 @@
-# Introduction
+# Why Do This
 
-This is the first real chapter.
-
+It's free. It's challenging. It can be fun.
