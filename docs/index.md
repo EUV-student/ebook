@@ -4,7 +4,19 @@ author: "EUV Student"
 date: "2022-12-17"
 site: bookdown::bookdown_site
 documentclass: book
+output: 
+  bookdown::gitbook:
+    config:
+      toc_depth: 1
+      toc-title: "Table of Contents"
+      toc:
+        before: 
+          <li><p class="aligncenter">A Minimal EBook </p></li>
+          <li><p class="aligncenter"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Smiley_green_alien_nerdy.svg/46px-Smiley_green_alien_nerdy.svg.png?20220911030431"> </p></li>
+        collapse: section 
+        scroll_highlight: false
 link-citations: yes
+css: style.css 
 github-repo: EUV-student/ebook
 description: "Everything you need (and nothing more) to start a bookdown book."
 ---
