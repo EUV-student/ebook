@@ -1,0 +1,14 @@
+--- 
+title: "A Minimal EBook"
+author: "EUV Student"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+link-citations: yes
+github-repo: EUV-student/ebook
+description: "Everything you need (and nothing more) to start a bookdown book."
+---
+
+# Preface {-}
+
+This is the very first part of the book.
